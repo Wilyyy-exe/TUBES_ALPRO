@@ -21,5 +21,6 @@ Aplikasi ini digunakan untuk mengumpulkan Data Film Favorit dari Mahasiswa. Peng
 
 ## Patch 1.0
 - Mengubah dan membuat tampilan utama dengan Command Line Interface (CLI)
-![Image](https://github.com/user-attachments/assets/10e6a9ad-b252-4256-8926-ff47849f0100)
+![Image](https://github.com/Wilyyy-exe/TUBES_ALPRO/issues/1#issue-3107526445)
 - Memperbaiki bug dan error
+https://github.com/Wilyyy-exe/TUBES_ALPRO/issues/1#issue-3107526445
