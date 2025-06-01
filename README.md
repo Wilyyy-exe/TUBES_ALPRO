@@ -10,14 +10,16 @@ Aplikasi ini digunakan untuk mengumpulkan Data Film Favorit dari Mahasiswa. Peng
 - Gracent Alfanda
 
 ## Spesifikasi
-1. Pengguna dapat menambahkan Data seperti NIM, Nama dan Film Favorit
-2. Pengguna dapat menampilkan Data yang sudah diinputkan sebelumnya
-3. Pengguna dapat mengubah/ update Data berdasarkan NIM, Nama, atau Judul Film
-4. Pengguna dapat menghapus Data berdasarkan NIM, Nama, atau Judul Film
-5. Pengguna dapat mencari Data dan mengurutkan Data:
-   - NIM; dari Awal-Akhir (NIM terkecil ke terbesar) dan Akhir-Awal (NIM terbesar ke terkecil)
-   - Nama; dari A-Z (Urutan abjad), Z-A (Urutan abjad), Awal-Akhir (Urutan input), dan Akhir-Awal (Urutan input)
-   - Judul Film; dari A-Z (Urutan abjad), Z-A (Urutan abjad), Awal-Akhir (Urutan input), dan Akhir-Awal (Urutan input)
+1. Pengguna dapat menginputkan Data seperti NIM, Nama dan Film Favorit
+2. Pengguna dapat tambah, edit, atau hapus data Film
+3. Pengguna dapat menampilkan semua data film atau mencari data film:
+   - ID; dari Kecil-Besar dan Besar-Kecil
+   - NIM; dari Kecil-Besar dan Besar-Kecil
+   - Nama; dari A-Z (Urutan abjad) dan Z-A (Urutan abjad)
+   - Judul Film; dari A-Z (Urutan abjad) dan Z-A (Urutan abjad)
+5. Pengguna dapat mengurutkan data film
+6. Pengguna dapat menampilkan statistik data film
+   
 
 ## Patch 1.0
 - Mengubah dan membuat tampilan utama dengan Command Line Interface (CLI)
